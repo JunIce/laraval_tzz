@@ -1,0 +1,62 @@
+body{
+    background-color: #ededed;
+}
+a{
+    color: inherit;
+    font-size: inherit;
+    text-decoration: none;
+}
+.nav-box{
+    padding: 10px 20px;
+    box-shadow: 1px 1px 4px #ddd
+}
+.tag-box{
+    padding: 20px 0;
+}
+.pd-2{
+    padding: 4px;
+}
+.bg-btn-main{
+    background-color: #f4f4f4;
+}
+.photo-box{
+    padding: 20px;
+}
+.p-mr-20{
+    margin-top: 20px;
+}
+.do-fava-title{
+    margin-left: 4px;
+}
+.oi-heart-size{
+    width: 14px;
+    height: 14px;
+}
+
+.btn-favor {
+    color: #8c8787;
+    background-color: #cccfd2;
+    border-color: #cccfd2;
+}
+.btn-favor:hover {
+    color: #fff;
+    background-color: #8c8787;
+    border-color: #8c8787;
+}
+.p-title{
+    font-size: 14px;
+    color: #666;
+    line-height: 20px;
+}
+.p-info-tag{
+    font-size: 12px;
+}
+footer{
+    font-size: 12px;
+    color: #999;
+    padding:20px 0;
+    line-height: 25px;
+}
+footer .dot{
+    margin: 0 8px;
+}
